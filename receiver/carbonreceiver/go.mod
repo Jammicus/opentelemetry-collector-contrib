@@ -16,6 +16,6 @@ require (
 	go.opencensus.io v0.23.0
 	go.opentelemetry.io/collector v0.24.1-0.20210415212744-f6074afdb426
 	go.uber.org/zap v1.16.0
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/protobuf v1.28.1
 	gopkg.in/ini.v1 v1.57.0 // indirect
 )
