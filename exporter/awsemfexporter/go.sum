@@ -118,8 +118,8 @@ go.opentelemetry.io/collector/exporter v0.89.0 h1:8sYpJdKDQ2RuYOPKDsMz/lMJqp4WEW
 go.opentelemetry.io/collector/exporter v0.89.0/go.mod h1:zR8PFXMHlG0qPIEdRPNaefxDNj4UVP47uJ4vbHs+YME=
 go.opentelemetry.io/collector/extension v0.89.0 h1:iiaWIPPFqP4T0FSgl6+D1xRUhVnhsk88uk2BxCFqt7E=
 go.opentelemetry.io/collector/extension v0.89.0/go.mod h1:tBh5wD4AZ3xFO6M1CjkEEx2urexTqcAcgi9cJSPME3E=
-go.opentelemetry.io/collector/featuregate v1.0.0-rcv0018 h1:iK4muX3KIMqKk0xwKcRzu4ravgCtUdzsvuxxdz6A27g=
-go.opentelemetry.io/collector/featuregate v1.0.0-rcv0018/go.mod h1:xGbRuw+GbutRtVVSEy3YR2yuOlEyiUMhN2M9DJljgqY=
+go.opentelemetry.io/collector/featuregate v1.0.0 h1:5MGqe2v5zxaoo73BUOvUTunftX5J8RGrbFsC2Ha7N3g=
+go.opentelemetry.io/collector/featuregate v1.0.0/go.mod h1:xGbRuw+GbutRtVVSEy3YR2yuOlEyiUMhN2M9DJljgqY=
 go.opentelemetry.io/collector/pdata v1.0.0-rcv0018 h1:a2IHOZKphRzPagcvOHQHHUE0DlITFSKlIBwaWhPZpl4=
 go.opentelemetry.io/collector/pdata v1.0.0-rcv0018/go.mod h1:oNIcTRyEJYIfMcRYyyh5lquDU0Vl+ktTL6ka+p+dYvg=
 go.opentelemetry.io/collector/receiver v0.89.0 h1:wC/FB8e2Ej06jjNW2OiuZoyiSyB8TQNIzYyPlh9oRqI=
