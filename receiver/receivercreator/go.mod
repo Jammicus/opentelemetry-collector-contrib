@@ -10,7 +10,7 @@ require (
 	github.com/spf13/cast v1.5.1
 	github.com/stretchr/testify v1.8.4
 	go.opentelemetry.io/collector/component v0.89.0
-	go.opentelemetry.io/collector/confmap v0.89.0
+	go.opentelemetry.io/collector/confmap v0.91.0
 	go.opentelemetry.io/collector/consumer v0.89.0
 	go.opentelemetry.io/collector/extension v0.89.0
 	go.opentelemetry.io/collector/otelcol v0.89.0
@@ -70,7 +70,7 @@ require (
 	go.opentelemetry.io/collector/config/configtelemetry v0.89.0 // indirect
 	go.opentelemetry.io/collector/connector v0.89.0 // indirect
 	go.opentelemetry.io/collector/exporter v0.89.0 // indirect
-	go.opentelemetry.io/collector/featuregate v1.0.0-rcv0018 // indirect
+	go.opentelemetry.io/collector/featuregate v1.0.0 // indirect
 	go.opentelemetry.io/collector/processor v0.89.0 // indirect
 	go.opentelemetry.io/collector/service v0.89.0 // indirect
 	go.opentelemetry.io/contrib/propagators/b3 v1.20.0 // indirect
