@@ -1,9 +1,9 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/datadogexporter
 
-go 1.20
+go 1.24.0
 
 require (
-	github.com/DataDog/agent-payload/v5 v5.0.89
+	github.com/DataDog/agent-payload/v5 v5.0.171
 	github.com/DataDog/datadog-agent/pkg/proto v0.50.0-rc.1
 	github.com/DataDog/datadog-agent/pkg/trace v0.50.0-rc.1
 	github.com/DataDog/datadog-api-client-go/v2 v2.18.0
@@ -123,7 +123,7 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/karrick/godirwalk v1.17.0 // indirect
-	github.com/klauspost/compress v1.17.2 // indirect
+	github.com/klauspost/compress v1.18.0 // indirect
 	github.com/knadh/koanf/maps v0.1.1 // indirect
 	github.com/knadh/koanf/providers/confmap v0.1.0 // indirect
 	github.com/knadh/koanf/v2 v2.0.1 // indirect
